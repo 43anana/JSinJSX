@@ -1,0 +1,15 @@
+.heading {
+  color: lightcoral;
+}
+
+.editable {
+  color: lightgreen;
+}
+.editable:active {
+  color: darkgoldenrod;
+}
+
+.img-style {
+  height: 100px;
+  width: 100px;
+}
